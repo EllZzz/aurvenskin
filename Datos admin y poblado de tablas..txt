@@ -1,0 +1,28 @@
+Datos admin y poblado de tablas.
+
+ADMIN
+ConTraSenA1234
+
+
+
+
+
+INSERT INTO store_product (name, price, description, image, category_id) 
+VALUES ('Cloud Paint Blush',17,'Storm. A cream tint that melts into skin for lit-from-within color that stays flush all day.','/blushes/blush_storm.webp',2);  
+
+INSERT INTO store_product (name, price, description, image, category_id) 
+VALUES ('Cloud Paint Blush',17,'Puff. A cream tint that melts into skin for lit-from-within color that stays flush all day.','/blushes/blush_puff.webp',2);
+
+INSERT INTO store_product (name, price, description, image, category_id) 
+VALUES ('Cloud Paint Blush',17,'Haze. A cream tint that melts into skin for lit-from-within color that stays flush all day.','/blushes/blush_haze.webp',2);
+
+-- bronzers
+
+INSERT INTO store_product (name, price, description, image, category_id) 
+VALUES ('Cloud Paint Bronzer',17,'Drift. The easiest bronzer ever. A sheer, buildable formula that gives a wash of natural warmth and depth.','/cosmetics/bronzer_drift.webp',3);
+
+INSERT INTO store_product (name, price, description, image, category_id) 
+VALUES ('Cloud Paint Bronzer',17,'Dune. The easiest bronzer ever. A sheer, buildable formula that gives a wash of natural warmth and depth.','/cosmetics/bronzer_dune.webp',3);
+
+INSERT INTO store_product (name, price, description, image, category_id) 
+VALUES ('Cloud Paint Bronzer',17,'Swept. The easiest bronzer ever. A sheer, buildable formula that gives a wash of natural warmth and depth.','/cosmetics/bronzer_swept.webp',3);
